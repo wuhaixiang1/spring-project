@@ -16,7 +16,16 @@
 
     <properties>
         <java.version>1.8</java.version>
+        <dynamic.varsion>3.1.1</dynamic.varsion>
     </properties>
+    <dependencies>
+<!--        导入多数据源jar包,还要排除druid的连接池-->
+        <dependency>
+            <groupId>com.baomidou</groupId>
+            <artifactId>dynamic-datasource-spring-boot-starter</artifactId>
+            <version>${dynamic.varsion}</version>
+        </dependency>
+    </dependencies>
     <build>
         <plugins>
             <plugin>
