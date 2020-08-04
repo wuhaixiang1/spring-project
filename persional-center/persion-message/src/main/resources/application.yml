@@ -64,7 +64,7 @@ server:
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.slf4j.Slf4jImpl
-  type-aliases-package: com.smart.rest.domain.entity
+  type-aliases-package: com.spring.person.domain.entity
   #
   global-config:
     db-config:

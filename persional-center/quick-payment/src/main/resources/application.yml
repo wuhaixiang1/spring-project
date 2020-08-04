@@ -64,7 +64,7 @@ server:
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.slf4j.Slf4jImpl
-  type-aliases-package: com.spring.address.domain.entity
+  type-aliases-package: com.spring.car.domain.entity
   #
   global-config:
     db-config:
