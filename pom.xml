@@ -22,7 +22,7 @@
         <spring-boot.version>2.3.0.RELEASE</spring-boot.version>
         <druid.version>1.1.22</druid.version>
         <swagger2.version>2.9.2</swagger2.version>
-        <swagger-ui.varsion>2.9.2</swagger-ui.varsion>
+        <swagger-ui.varsion>2.10.0</swagger-ui.varsion>
         <bootstrap-ui.version>1.9.6</bootstrap-ui.version>
         <mybatis.version>2.1.2</mybatis.version>
         <mybatis-plus.version>3.2.0</mybatis-plus.version>
